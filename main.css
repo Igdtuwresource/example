@@ -1,0 +1,78 @@
+body{
+
+  background-image: url(https://c0.wallpaperflare.com/preview/134/372/59/abstract-background-copyspace-brainstorm.jpg);
+  background-size:cover;
+  background-position: center center;
+background-attachment: fixed;
+color: white; 
+
+}
+.pic{
+  height:180px;
+}
+h1{
+color:rgb(245, 245, 9);
+}
+.stars i{
+  font-size: 1.5rem;
+  color:rgb(243, 201, 15);
+}
+.title{
+  margin: 0 auto;
+  width: 100%;
+  max-width: 40rem;
+  font-size: 4rem;
+  text-align: center;
+  
+  }
+  .card {
+      width: 90%;
+      max-width: 400px;
+      
+      border-radius: 1rem;
+      border: 1px solid transparent;
+      backdrop-filter: blur(1rem);
+      box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);
+      border-top-color: rgba(169, 14, 14, 0.5);
+border-left-color: rgba(169, 14, 14, 0.5);
+border-bottom-color: rgba(169, 14, 14, 0.5);
+border-right-color: rgba(169, 14, 14, 0.5);
+      }
+
+.cb1{
+  background-color: rgba(179, 28, 28, 0.1);
+}
+.btn{
+  color:black;
+}
+.fa-instagram {  
+    height:20px;
+    width:30px;
+    
+  color: rgb(231, 15, 51);  
+}  
+
+.fa-instagram:hover {  
+  
+  color: rgb(231, 15, 51);  
+}  
+.fa {
+ 
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+.name{
+  color:black;
+  font-family: 'Raleway', sans-serif;
+}
+.card-text{
+  font-size:15px;
+  color:brown;
+}
